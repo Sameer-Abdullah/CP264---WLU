@@ -1,0 +1,53 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Lab 3 Test Results File
+ * -------------------------------------
+ * @author Sameer Abdullah, 169065039, abdu5039@mylaurier.ca
+ *
+ * @version 2025-01-26
+ *
+ * -------------------------------------
+ */
+------------------
+Task 1
+Test: sum_integers
+
+Enter integers, one per line:
+1
+2
+3 4
+5 
+q
+Sum: 11
+
+------------------
+Task 2
+Test: sum_three_integers
+
+Enter three comma-separated integers: 2, five 9
+The integers were not properly entered.
+Enter three comma-separated integers: twelve
+The integers were not properly entered.
+Enter three comma-separated integers: 2,3,4
+Sum: 9
+
+
+---------------
+Task 3
+
+Test: int_array_read
+
+Enter 4 values for an array of int.
+Value for index 0: six
+Not a valid integer
+Value for index 0: 1
+Value for index 1: 5
+Value for index 2: -9.3049
+Value for index 3: 2 3 5
+{1, 5, -9, 2}
+
+
+
+
+

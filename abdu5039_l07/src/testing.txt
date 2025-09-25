@@ -1,0 +1,34 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Lab 7 Test Results File
+ * -------------------------------------
+ * @author Sameer Abdullah, 169065039, abdu5039@mylaurier.ca
+ *
+ * @version 2025-01-06
+ *
+ * -------------------------------------
+ */
+ 
+ 
+ empty: true
+full:  false
+count: 0
+Insert test values:
+  count: 8, height: 4, items:
+11
+7
+6
+9
+8
+15
+12
+18
+
+empty: false
+full:  false
+count: 8
+leaf_count: 4
+balanced: true
+inorder:   {6, 7, 8, 9, 11, 12, 15, 18, }
+Remove 11:

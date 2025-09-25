@@ -1,0 +1,39 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Lab 2 Test Results File
+ * -------------------------------------
+ * @author Sameer Abdullah, 169065039, abdu5039@mylaurier.ca
+ *
+ * @version 2025-01-21
+ *
+ * -------------------------------------
+ */
+by_index
+
+Using index-based arrays
+
+Value  Square
+-----  ----------
+    1           1
+    2           4
+    3           9
+    4          16
+    5          25
+    6          36
+
+
+
+-------------------------------------
+by_ptr
+
+Using pointer-based arrays
+
+Value  Square
+-----  ----------
+    1           1
+    2           4
+    3           9
+    4          16
+    5          25
+    6          36
